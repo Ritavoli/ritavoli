@@ -20,7 +20,7 @@ Meu nome é Rita Oliveira, estou concluindo o curso de Engenharia Civil mas, al�
 Sou entusiasta da tecnologia e estou em busca de aprender novas habilidades para expandir meu horizonte. Seja explorando linguagens de programação, desenvolvendo aplicativos ou mergulhando na análise de dados, estou sempre curiosa para descobrir como a tecnologia molda nosso mundo e abre novas possibilidades.
 Fora dos projetos, meu tempo é dividido com meu amor por gatos. Esses pequenos seres curiosos sempre encontram uma maneira de trazer alegria ao meu dia. 
 
-<center><img src="https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem14.gif"/></center>
+<center><img src="https://i.pinimg.com/originals/32/73/a6/3273a63fec3042e0bd62d828c42dff09.gif"/></center>
 
 
 
