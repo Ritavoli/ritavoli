@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Rita Oliveira 
 Hi there ✨
 
-Engenheira Civil cursando Eng. de Controle e Automação | Python, SQL, ETL | Interesse em engenharia de dados e IA
+Engenheira Civil cursando Eng. de Automação (FURG)| Python, SQL, ETL | Interesse em engenharia de dados e IA
 
 
 
