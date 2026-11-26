@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 # Rita Oliveira 
 Hi there ✨
 
-Meu nome é Rita Oliveira, Engenharia Civil. Minha jornada acadêmica me trouxe para o mundo da Engenharia, onde busco combinar criatividade e precisão para criar ambientes funcionais e esteticamente agradáveis.
-Sou entusiasta da tecnologia e estou em busca de aprender novas habilidades para expandir meu horizonte. Seja explorando linguagens de programação, desenvolvendo aplicativos ou mergulhando na análise de dados, estou sempre curiosa para descobrir como a tecnologia molda nosso mundo e abre novas possibilidades.
-Fora dos projetos, meu tempo é dividido com meu amor por gatos. Esses pequenos seres curiosos sempre encontram uma maneira de trazer alegria ao meu dia. 
-
+Engenheira Civil cursando Eng. de Controle e Automação | Python, SQL, ETL | Interesse em engenharia de dados e IA
 <center><img src="https://i.pinimg.com/originals/32/73/a6/3273a63fec3042e0bd62d828c42dff09.gif"/></center>
 
 
