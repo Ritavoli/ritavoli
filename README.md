@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 Hi there ✨
 
 Engenheira Civil cursando Eng. de Controle e Automação | Python, SQL, ETL | Interesse em engenharia de dados e IA
-<center><img src="https://i.pinimg.com/originals/32/73/a6/3273a63fec3042e0bd62d828c42dff09.gif"/></center>
 
 
 
